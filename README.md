@@ -7,7 +7,7 @@
 <h3>2. Play with directories</h3>
 <h4>A. Create a directory with no name.</h4>
 <h4>Answer: a) mkdir ''$'/n': Creates a directory with no name 
-            b) mkdir "\ "</h4>
+            <br>b) mkdir "\ "</h4>
 <br>
 <h4>B. Create a directory with name "-okgoogle".</h4>
 <h4>Answer:  mkdir -- -"-okgoogle"</h4>
