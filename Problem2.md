@@ -5,3 +5,9 @@
 <p>a) mkdir ''$'/n': Creates a directory with no name 
             <br>b) mkdir "\ "</p>
 </p>
+
+<p>
+<h4>B. Create a directory with name "-okgoogle".</h4>
+<p> mkdir -- "-okgoogle"</p>
+<h3> Sources:</h3>
+</p>
