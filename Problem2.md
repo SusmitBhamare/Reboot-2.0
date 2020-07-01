@@ -9,5 +9,5 @@
 <p>
 <h4>B. Create a directory with name "-okgoogle".</h4>
 <p> mkdir -- "-okgoogle"</p>
-<h3> Sources:</h3>
+<p> mkdir ./-okgoogle</p>
 </p>
