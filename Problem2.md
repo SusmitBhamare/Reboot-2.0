@@ -2,12 +2,9 @@
 <h3>2. Create a directory structure. </h3>
 <h4>Note :   You are only allowed to use a single command and only one time</h4>
 <p>
-            mkdir -p A/{B/{G/K,H/J},C/{I/J,J/L},D/{F/L,E/M}}/Reboot.txt <br>
-       
+Solution:<br>
+<h3>mkdir -p A/{B/{G/K,H/J},C/{I/J,J/L},D/{F/L,E/M}}/Reboot.txt <br></h3>
 Here, -p switch create parents directories.
-
-
-
 </p>
 </p>
 <p><h3> Helpful Resource</h3>
