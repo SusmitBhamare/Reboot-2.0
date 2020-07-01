@@ -8,6 +8,6 @@
 
 <p>
 <h4>B. Create a directory with name "-okgoogle".</h4>
-<p> mkdir -- "-okgoogle"</p>
-<p> mkdir ./-okgoogle</p>
+<p> mkdir -- "-okgoogle"
+<br>mkdir ./-okgoogle</p>
 </p>
