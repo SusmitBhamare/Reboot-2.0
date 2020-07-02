@@ -5,6 +5,8 @@
 Solution:<br>
 <h3>mkdir -p A/{B/{G/K,H/J},C/{I/J,J/L},D/{F/L,E/M}}/Reboot.txt <br></h3>
 Here, -p switch create parents directories.
+Here we can see the tree like structure of the directories created using 
+<h3> tree A</h3>
 </p>
 </p>
 <p><h3> Helpful Resource</h3>
